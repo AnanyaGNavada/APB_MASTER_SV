@@ -34,6 +34,6 @@ task start();
 		outmon.start();
 		sb.start();
 	join
-	$finish;
+	//$finish;
 endtask
 endclass
